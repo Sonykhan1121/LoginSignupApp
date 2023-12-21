@@ -22,7 +22,7 @@
 
 6) ### Add a google API signIn
 
-<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/2b0ce7a9-c968-41a4-9677-1a0169ea992b" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/2b0ce7a9-c968-41a4-9677-1a0169ea992b" width="250" height="250">
 
 7) ### firebase database Upadate
 
