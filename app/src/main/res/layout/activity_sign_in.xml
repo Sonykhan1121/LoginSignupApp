@@ -74,4 +74,21 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/create_id_login"
         app:layout_constraintTop_toBottomOf="@+id/pass_id_signin" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:drawableLeft="@drawable/google"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:id="@+id/sign_in_by_google"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@color/white"
+        android:elevation="10dp"
+
+        android:text="Google"
+        android:textColor="#151515"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/login_id_login"
+        app:layout_constraintStart_toStartOf="@+id/create_id_login" />
 </androidx.constraintlayout.widget.ConstraintLayout>
