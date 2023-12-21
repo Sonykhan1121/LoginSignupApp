@@ -25,5 +25,9 @@ class MainActivity : AppCompatActivity() {
                 }
 
         }
+        binding.createNewNoteBtn.setOnClickListener {
+            startActivity(Intent(this,AddNoteActivity::class.java))
+
+        }
     }
 }

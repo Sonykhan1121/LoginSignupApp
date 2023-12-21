@@ -27,3 +27,13 @@
 7) ### firebase database Upadate
 
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/d4cfb191-e6c7-4da9-9f3a-d0f0d1c037d9" width="850" height="500">
+
+8) ### Add data to Realtime Database
+
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/0fd2dfea-c782-4de7-878d-15cd9e59d6ce" width="200" height="340">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/dead8f47-9b1e-43e8-a263-1240526a7daa" width="200" height="340">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/88030e77-6c24-4b97-8f1e-73c35b562ec3" width="200" height="340">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/512bbea5-72d4-4b22-81fc-9fbe25abf27d" width="200" height="340">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/36fadadc-ecb3-4059-8142-46bd4c000b5b" width="850" height="500">
+
+
