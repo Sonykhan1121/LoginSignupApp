@@ -36,4 +36,6 @@
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/512bbea5-72d4-4b22-81fc-9fbe25abf27d" width="250" height="390">
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/36fadadc-ecb3-4059-8142-46bd4c000b5b" width="850" height="500">
 
+9) ### Display data from database
 
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/a0af5875-27da-4c46-98d9-41959b208e71" width="250" height="390">

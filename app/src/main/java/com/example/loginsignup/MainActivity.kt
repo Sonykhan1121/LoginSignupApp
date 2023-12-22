@@ -29,5 +29,9 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this,AddNoteActivity::class.java))
 
         }
+        binding.openallnoteBtn.setOnClickListener {
+            startActivity(Intent(this,OpenallnotesActivity::class.java))
+
+        }
     }
 }
