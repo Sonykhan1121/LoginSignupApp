@@ -39,7 +39,7 @@ class AddNoteActivity : AppCompatActivity() {
                 }
                 currentUser?.let { user ->
                     val notekey = databaseReference.child("users").child(user.uid).child("notes").push().key
-                    val noteItem = NoteItem(title, description)
+                    val noteItem = NoteItem(title, description,notekey?:"")
 
                     if (notekey != null) {
                         databaseReference.child("users").child(user.uid).child("notes").child(notekey)

@@ -39,3 +39,10 @@
 9) ### Display data from database
 
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/a0af5875-27da-4c46-98d9-41959b208e71" width="250" height="390">
+
+10) ### upload image from gallery to firebase storage and show this into ImageView
+
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/7b0f4743-7a79-45bd-aa87-6d7d0210a26e" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/b8b2b566-0aa5-4f5b-b3e2-483e9215cea3" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/cac5e11c-3a75-43d5-95f5-4d2551289f4e" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/f5b7c895-070f-4791-b6e1-19f298076cc9" width="850" height="500">
