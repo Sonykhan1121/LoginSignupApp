@@ -38,40 +38,18 @@ class MainActivity : AppCompatActivity() {
         }
         binding.openallnoteBtn.setOnClickListener {
             startActivity(Intent(this,OpenallnotesActivity::class.java))
+            finish()
 
         }
-        binding.choosePictureId.setOnClickListener {
-            val intent = Intent()
-            intent.action = Intent.ACTION_PICK
-            intent.type ="image/*"
-            imagelauncher.launch(intent)
+        binding.photoBtn.setOnClickListener {
+            startActivity(Intent(this,ImageViewActivity::class.java))
+
         }
+        binding.videoViewerBtn.setOnClickListener {
+            startActivity(Intent(this,VideoViewActivity::class.java))
+        }
+
 
     }
-    val imagelauncher = registerForActivityResult(ActivityResultContracts.StartActivityForResult()){
-        if(it.resultCode== Activity.RESULT_OK)
-        {
-            if(it.data!=null)
-            {
-                val timeStamp = System.currentTimeMillis()
-                val imageName = "image_$timeStamp.jpg"
-                val ref = Firebase.storage.reference.child("photo").child(imageName)
 
-                ref.putFile(it.data!!.data!!).addOnCompleteListener {
-                    ref.downloadUrl.addOnSuccessListener { uri ->
-                        // Use Glide to load the image into the ImageView
-                        Glide.with(this@MainActivity)
-                            .load(uri)
-                            .apply(RequestOptions.diskCacheStrategyOf(DiskCacheStrategy.NONE))
-                            .into(binding.choosingPicId)
-                    }
-                }
-
-            }
-            else{
-                Toast.makeText(this, "data null", Toast.LENGTH_SHORT).show()
-            }
-        }
-
-    }
 }

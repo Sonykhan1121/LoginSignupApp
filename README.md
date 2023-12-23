@@ -46,3 +46,13 @@
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/b8b2b566-0aa5-4f5b-b3e2-483e9215cea3" width="250" height="390">
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/cac5e11c-3a75-43d5-95f5-4d2551289f4e" width="250" height="390">
 <img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/f5b7c895-070f-4791-b6e1-19f298076cc9" width="850" height="500">
+
+11) ### add two button for Showing Image and showing video from gallery 
+
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/a9064356-d5a7-4443-8010-6b7f74a11769" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/957def0e-6757-413d-a24f-f6e8e0bcf306" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/17f4ee82-1a39-4727-abaf-46b27211595a" width="250" height="390">
+<img src="https://github.com/Sonykhan1121/LoginSignupApp/assets/45848552/ed7c9a04-23ed-4949-a431-fb10d3eeee5a" width="250" height="390">
+
+
+
